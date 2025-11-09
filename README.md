@@ -1,6 +1,7 @@
 <h1 align="center">schedule solver</h1>
 <br>
 <h3 align="justify">constraint programming algorithm
+  
   by using heuristics and backtracking this program finds a feasible schedule that satisfies all constraints
   but most importantly it automates administrative tasks reducing workload stress and improving students satisfaction
   special features
